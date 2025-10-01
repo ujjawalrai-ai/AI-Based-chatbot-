@@ -1,5 +1,5 @@
 from google import genai
-client=genai.Client(api_key="AIzaSyB5O1RLG7xUnzAnUrTs5FThIkYmH_qB-I4")
+client=genai.Client(api_key="API KEy")
 
 command = '''[19:39, 26/7/2025] Ghost: Ok
 [19:39, 26/7/2025] Ghost: I'll do this at first place     
