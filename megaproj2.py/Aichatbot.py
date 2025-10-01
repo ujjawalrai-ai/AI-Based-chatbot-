@@ -38,7 +38,7 @@ while(True):
     
 #--------------------------------------------------------------------------------------------------------------------
 
-    client=genai.Client(api_key="AIzaSyB5O1RLG7xUnzAnUrTs5FThIkYmH_qB-I4") #API integration
+    client=genai.Client(api_key="YOUR API KEY") #API integration
 
     msg =("You're a person named ghost who speaks hindi as well as english. you're from india and you are a college student."
     "you analyze chat history and respond like ghost. Output should be next chat response don't include my introduction to respond  " )
